@@ -1,0 +1,32 @@
+.amazon-link{
+  color: rgb(0, 113, 133);}
+  .title{
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .price{
+    color: rgb(0, 136, 0);
+    font-weight: bold;
+  }
+  .addtocart-button{
+    background-color: rgb(255, 216, 25);
+    border: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 15px;
+    font-weight: bold;]
+    cursor: pointer;
+
+  }
+  .buynow-button{
+    background-color: rgb(255, 164, 28);
+    border: none;
+    height: 25px;
+    width: 85px;
+    border-radius: 13px;
+    margin-left: 10px;
+    transition: opacity 0.15s
+  }
+  .buynow-button:hover{
+    opacity: 0.8;
+  }
